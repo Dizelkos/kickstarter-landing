@@ -14,4 +14,4 @@
 - Responsive design
 
 #
-- [DEMO LINK](https://Dizelkos.github.io/<repo_name>/)
+- [DEMO LINK](https://dizelkos.github.io/kickstarter-landing/)
